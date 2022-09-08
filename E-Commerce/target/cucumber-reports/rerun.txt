@@ -1,0 +1,3 @@
+file:src/main/resources/features/SC92_Make_an_order.feature:5
+file:src/main/resources/features/SC8_Select_different_Tags.feature:5
+file:src/main/resources/features/SC80_Shopping_cart.feature:5
